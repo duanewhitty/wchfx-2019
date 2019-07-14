@@ -161,7 +161,7 @@ iframe {
 }
 
 .site-header {
-	background: transparent url('https://2019.halifax.wordcamp.org/files/2019/07/Halifax-background.png') center center no-repeat;
+	background: transparent url('https://2019.halifax.wordcamp.org/files/2019/07/wphfx-banner-2019.jpg') center center no-repeat;
 	background-size: cover;
 	-moz-box-shadow: inset 0 10px 60px rgba(126,99,88,0.5);
 	-webkit-box-shadow: inset 0 10px 60px rgba(126,99,88,0.5);
@@ -175,7 +175,7 @@ iframe {
 	display: block;
 	content: 'September 7, 2019 - Dalhousie Student Union Building - 6136 University Avenue';
 	padding: 20px;
-	color: #73c6c7;
+	color: #FBE8CC;
 	font-size: x-large;
 }
 
